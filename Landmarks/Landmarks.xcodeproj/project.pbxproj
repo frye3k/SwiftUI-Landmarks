@@ -45,6 +45,7 @@
 		A0EA783C272752B500741F1D /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EA783B272752B500741F1D /* PageViewController.swift */; };
 		A0EA783E2727541D00741F1D /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EA783D2727541D00741F1D /* FeatureCard.swift */; };
 		A0EA78402727559B00741F1D /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EA783F2727559B00741F1D /* PageView.swift */; };
+		A0EA78422727612F00741F1D /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EA78412727612E00741F1D /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -106,6 +107,7 @@
 		A0EA783B272752B500741F1D /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		A0EA783D2727541D00741F1D /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		A0EA783F2727559B00741F1D /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		A0EA78412727612E00741F1D /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -296,6 +298,7 @@
 				A0EA783D2727541D00741F1D /* FeatureCard.swift */,
 				A0EA783B272752B500741F1D /* PageViewController.swift */,
 				A0EA783F2727559B00741F1D /* PageView.swift */,
+				A0EA78412727612E00741F1D /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 				A0EA77F52724A6C400741F1D /* MapView.swift in Sources */,
 				A0EA7824272644FB00741F1D /* GraphCapsule.swift in Sources */,
 				A0EA77C927249D6400741F1D /* LandmarksApp.swift in Sources */,
+				A0EA78422727612F00741F1D /* PageControl.swift in Sources */,
 				A0EA780D27260F5300741F1D /* FavoriteButton.swift in Sources */,
 				A0EA782E2726529500741F1D /* CategoryItem.swift in Sources */,
 				A0EA7826272644FB00741F1D /* HikeDetail.swift in Sources */,
